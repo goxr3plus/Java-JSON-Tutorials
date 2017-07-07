@@ -1,18 +1,3 @@
-# JavaFXApplicationAutoUpdater
-
-Learn how to Create , Write and Update JSON Files using Java and JSON Simple 2.1.1 Library and more!
-
-# How it works?
-
- Basically you watch the videos i created on youtube and voila :)
-
-# Youtube Tutorials
-
-[![Youtube Tutorial](http://img.youtube.com/vi/icFtuMRDpPU/0.jpg)](https://www.youtube.com/watch?v=icFtuMRDpPU)
-
-##Code using JSON Simple 2.1.1
-
-```JAVA
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -139,6 +124,3 @@ public class JSONRunner {
 	}
 	
 }
-
-
-```

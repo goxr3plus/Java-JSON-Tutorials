@@ -1,0 +1,24 @@
+{
+	"toys":[
+		{
+			"color":"yellow",
+			"name":"crocodile"
+		},
+		{
+			"color":"white",
+			"name":"monkey",
+			
+			{
+			 
+			 "a":"b"
+			}
+		}
+	],
+	"children":[
+		"Sofi",
+		"Nick",
+		"John"
+	],
+	"name":"Alexander",
+	"lastname":"GOXR3PLUS"
+}
