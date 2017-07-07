@@ -1,4 +1,4 @@
-# JavaFXApplicationAutoUpdater
+# Java JSON Tutorials
 
 Learn how to Create , Write and Update JSON Files using Java and JSON Simple 2.1.1 Library and more!
 
